@@ -1,0 +1,11 @@
+Simple one player battleship game written in Java SDK8.
+It's a 10x10 grid with 2 Destroyers( length 4) and one Battleship( length 5)
+How to play:
+Either open it with an IntelliJ and run or:
+1. Open cmd
+2. go to folder with Game.java
+3. in console type: java Game.java
+4. First give the row number from 0-9
+5. Second give a column letter with Caps Lock from A-J
+
+If all ships are destroyed the game ends.
